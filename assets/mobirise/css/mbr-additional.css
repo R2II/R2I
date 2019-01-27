@@ -1370,9 +1370,6 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.cid-rbh8bPbeak {
-  background-image: url("../../../assets/images/4k-wallpaper-close-up-dew-807598-2000x1500.jpg");
-}
 .cid-rbh8bPbeak H3 {
   text-align: left;
 }
@@ -1390,4 +1387,7 @@ body {
   padding-top: 15px;
   padding-bottom: 15px;
   background-color: #000000;
+}
+.cid-rbmpFsRCbk .media-container-row .mbr-text {
+  text-align: center;
 }
